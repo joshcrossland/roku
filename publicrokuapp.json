@@ -6,6 +6,8 @@
 		"id": "uid1",
 		"title": "Capital City Christian Church",
 		"shortDescription": "Capital City Christian Church of Jefferson City, MO. Where we strive to be a city set on a hill, letting our light shine before all men, being Jesus to all people.",
+		"thumbnail":
+"https://s3.amazonaws.com/media.cloversites.com/51/512b3735-787d-406a-b9f6-db6774edb8e2/site-images/1f8b8526-1414-4d36-b6a7-28a3c88befee.png",
 		"genres": ["Christian", "Teaching"],
 		"tags": ["services", "broadcasts", "live", "Capital City", "Tuesday", "Sunday", "Church", "Family", "Worship"],
 		"releaseDate": "2020-07-21",
